@@ -1,0 +1,60 @@
+
+.carousel-caption{
+    position: absolute;
+    top: 50%;
+}
+.d-block {
+    height: 86vh;
+}
+#button {
+    border-radius: 50px;
+    padding: 10px;
+    width: 150px;
+    border: 2px solid white;
+    border-color: var(--bs-teal);
+    transition: 0.5s;
+}
+#button:hover, 
+#button:active{
+    color: white;
+    background-color: var(--bs-teal);
+}
+#drop :hover{
+
+
+}
+.ima2{
+    position: absolute;
+    left: auto;
+    right: auto;
+    width: 1349px;
+    height: 50vh;
+}
+.photo6 {
+    position: absolute;
+    top: 275vh;
+    margin: auto;
+    left: 330px;
+}
+.mini {
+    position: absolute;
+    left: -250px;
+    top: -8vh;
+
+}
+.ligne2{
+    position: absolute;
+    top: 56vh;
+}
+.textG {
+    position: absolute;
+    top: 28vh;
+}
+.ima{
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(slide-02.jpg) center center fixed;
+}
+
+.photo3{
+    position: absolute;
+    top: 130vh;
+}
